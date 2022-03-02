@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceBlock name="customer_account_navigation">
+            <block class="Magento\Framework\View\Element\Html\Link\Current" name="data-exports">
+                <arguments>
+                    <argument name="path" xsi:type="string">https://wholesalelingerie.co.uk/data-exports</argument>
+                    <argument name="label" xsi:type="string">WL Data Exports</argument>
+                    <argument name="sortOrder" xsi:type="number">51</argument>
+                </arguments>
+            </block>
+        </referenceBlock>
+    </body>
+</page>

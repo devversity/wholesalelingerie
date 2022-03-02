@@ -1,0 +1,302 @@
+stock_code,description,parent_stock_type,parent_stock_code,stock_available,post_type,image_1,image_2
+AL-10-8602K,,Bodysuit,AL-10-8602K,0,product,"Allure\10-8602K_front.jpg","Allure\10-8602K_second.jpg","Allure\10-8602K_back.jpg","Allure\10-8602K_box.jpg"
+AL-10-9602K,,Catsuit,AL-10-9602K,0,product,"Allure\10-9602K_front.jpg","Allure\10-9602K_second.jpg","Allure\10-9602K_back.jpg","Allure\10-9602K_box.jpg"
+AL-11-0012K,,"Bustiers & Corsets",AL-11-0012K,0,product,"Allure\11-0012_front.jpg","Allure\11-0012_back-500x750.jpg"
+AL-11-0022K,,"Bustiers & Corsets",AL-11-0022K,0,product,"Allure\11-0022_front.jpg","Allure\11-0022_back-500x750.jpg"
+AL-11-1005-BLK-S,"Faux Leather Cincher / Black / Small","Bustiers & Corsets",AL-11-1005,0,product,"Allure\11-1005_1.jpg","Allure\11-1005_2.jpg","Allure\11-1005_3.jpg"
+AL-11-1302X,,"Bustiers & Corsets",AL-11-1302X,1,product,"Allure\11-1032K-Front.jpg","Allure\11-1032K_boxes.jpg","Allure\11-1032K-Back.jpg"
+AL-11-5602K,,"Bustiers & Corsets",AL-11-5602K,0,product,"Allure\11-5602K-01.jpg","Allure\11-5602K-02.jpg","Allure\11-5602K-03.jpg"
+AL-11-6502K-BLK-OS,"Kitten Corset Top / Black / One Size","Bustiers & Corsets",AL-11-6502K,1,product,"Allure\11-6502K_1",
+AL-12-0012K,,"Bra Set",AL-12-0012K,0,product,"Allure\12-0012_front.jpg","Allure\12-0012_back-500x750.jpg"
+AL-12-0022K,,"Bra Set",AL-12-0022K,0,product,"Allure\12-0022_front-500x750.jpg","Allure\12-0022_back-500x750.jpg"
+AL-12-0252K,,"Bra Set",AL-12-0252K,0,product,"Allure\12-0252K_front-1.jpg","Allure\12-0252K_second-1.jpg","Allure\12-0252K_back-1.jpg"
+AL-12-0352K,,"Bra Set",AL-12-0352K,0,product,"Allure\12-0352K_front-500x750.jpg","Allure\12-0352K_second-1-500x750.jpg","Allure\12-0352K_back-500x750.jpg"
+AL-12-1175,,Set,AL-12-1175,0,product,"Allure\12-1175_front.jpg","Allure\12-1175_back.jpg","Allure\12-1175_second.jpg"
+AL-12-1372K,,Set,AL-12-1372K,0,product,"Allure\12-1372K_front-500x750.jpg","Allure\12-1372K_back-500x750.jpg","Allure\12-1372K_second-500x750.jpg"
+AL-12-1382K,,Set,AL-12-1382K,0,product,"Allure\12-1382K_front-500x750.jpg","Allure\12-1382K_back-500x750.jpg","Allure\12-1382K_second-500x750.jpg"
+AL-12-1775,,Set,AL-12-1775,0,product,"Allure\12-1775_front.jpg","Allure\12-1775_second.jpg","Allure\12-1775_back.jpg"
+AL-12-3045K,,"Bra Set",AL-12-3045K,0,product,"Allure\12-3045K_second-500x750.jpg","Allure\12-3045K_front-500x750.jpg","Allure\12-3045K_back-500x750.jpg"
+AL-12-4082K,,Set,AL-12-4082K,0,product,"Allure\12-4082K-Front.jpg","Allure\12-4082K-Back.jpg"
+AL-12-4402-BLK-S/M,"A tempting two piece comprised of wet look and nylon cropped halter top and an ultra saucy mini skirt. / Black / Small/Medium",Set,AL-12-4402,1,product,"Allure\12-4402_1-BLK",
+AL-12-4402-BLK-L/XL,"A tempting two piece comprised of wet look and nylon cropped halter top and an ultra saucy mini skirt. / Black / Large/XLarge",Set,AL-12-4402,0,product,"Allure\12-4402_1-BLK",
+AL-12-4402-RED-L/XL,"A tempting two piece comprised of wet look and nylon cropped halter top and an ultra saucy mini skirt. / Red / Large/XLarge",Set,AL-12-4402,0,product,"Allure\12-4402_RED",
+AL-12-4402-RED-S/M,"A tempting two piece comprised of wet look and nylon cropped halter top and an ultra saucy mini skirt. / Red / Small/Medium",Set,AL-12-4402,0,product,"Allure\12-4402_RED",
+AL-12-6055,,Set,AL-12-6055,0,product,"Allure\12-6055_front.jpg","Allure\12-6055_second.jpg","Allure\12-6055_back.jpg"
+AL-12-6602XK,,Set,AL-12-6602XK,11,product,"Allure\12-6602XK-01.jpg","Allure\12-6602XK-03.jpg","Allure\12-6602XK-04.jpg"
+AL-12-7032K,,"Bra Set",AL-12-7032K,0,product,"Allure\12-7032K-2.jpg","Allure\12-7032K-Front.jpg"
+AL-12001,,Cuffs,AL-12001,0,product,"Allure\12001_1.jpg","Allure\12001_2.jpg","Allure\12001_3.jpg"
+AL-12002,,Cuffs,AL-12002,0,product,"Allure\12002_3.jpg","Allure\12002_1.jpg","Allure\12002_2.jpg"
+AL-12003,,Accessories,AL-12003,0,product,"Allure\12003_3.jpg","Allure\12003_1.jpg"
+AL-12004,,Accessories,AL-12004,0,product,"Allure\12004_1.jpg","Allure\12004_3.jpg"
+AL-12005,,Accessories,AL-12005,0,product,"Allure\12005_3.jpg","Allure\12005_1.jpg"
+AL-12006,,Accessories,AL-12006,0,product,"Allure\12006_3.jpg","Allure\12006_1.jpg"
+AL-12007,,Accessories,AL-12007,0,product,"Allure\12007_3.jpg","Allure\12007_1.jpg"
+AL-12008,,Accessories,AL-12008,0,product,"Allure\12008_3.jpg","Allure\12008_1.jpg"
+AL-12009,,Accessories,AL-12009,0,product,"Allure\12009_3.jpg","Allure\12009_1.jpg"
+AL-12010,,Accessories,AL-12010,0,product,"Allure\12010_3.jpg","Allure\12010_1.jpg"
+AL-12011,,Accessories,AL-12011,0,product,"Allure\12011_3.jpg","Allure\12011_1.jpg"
+AL-13-0012K,,Skirt,AL-13-0012K,1,product,Allure13-0012_front-500x750,"Allure\13-0012_front-500x750.jpg"
+AL-13-0022K,,Skirt,AL-13-0022K,2,product,"Allure\13-0022_front-500x750.jpg","Allure\13-0022_back-500x750.jpg"
+AL-13-1072K,,Skirt,AL-13-1072K,0,product,"Allure\13-1072K_1-Edit.jpg",
+AL-13-1102X,,Skirt,AL-13-1102X,22,product,"Allure\13-1102X_1.jpg","Allure\13-1102X_2.jpg"
+AL-13-3007-RED-S/M,"Skin Tight Pencil Skirt / Red / Small/Medium",Skirt,AL-13-3007,2,product,"Allure\13-3007_1",
+AL-13-3007-RED-L/XL,"Skin Tight Pencil Skirt / Red / Large/XLarge",Skirt,AL-13-3007,0,product,"Allure\13-3007_1",
+AL-13-3602K,,Skirt,AL-13-3602K,1,product,"Allure\13-3602_1.jpg","Allure\13-3602K_box.jpg"
+AL-13-6602K,,Skirt,AL-13-6602K,0,product,"Allure\13-6602K-03.jpg","Allure\13-6602K-01.jpg","Allure\13-6602K-02.jpg"
+AL-13-7602K,,Skirt,AL-13-7602K,0,product,"Allure\13-7602K_front.jpg","Allure\13-7602K_second.jpg","Allure\13-7602K_back.jpg"
+AL-15-0012K,,Panty,AL-15-0012K,1,product,"Allure\15-0012_front-500x750.jpg","Allure\15-0012_back-500x750.jpg"
+AL-16-1022K,,Pants,AL-16-1022K,0,product,"Allure\16-1022K_1-Edit.jpg","Allure\16-1022K_box.jpg"
+AL-16-2602K,,Pants,AL-16-2602K,0,product,"Allure\16-2602K-01.jpg","Allure\16-2602K-03.jpg","Allure\16-2602K-02.jpg"
+AL-16-3602XK,,Pants,AL-16-3602XK,0,product,"Allure\16-3602XK-01.jpg","Allure\16-3602XK-03.jpg","Allure\16-3602XK-02.jpg"
+AL-16-4602K,,Pants,AL-16-4602K,0,product,"Allure\16-4602K_front.jpg","Allure\16-4602K_second.jpg","Allure\16-4602K_back.jpg"
+AL-16-5022K,,Pants,AL-16-5022K,0,product,"Allure\16-5022K-front.jpg","Allure\16-5022K-Back.jpg"
+AL-16-5602K,,Pants,AL-16-5602K,0,product,"Allure\16-5602K-Front.jpg","Allure\16-5602K-Other.jpg"
+AL-16-7902K,,Pants,AL-16-7902K,0,product,"Allure\16-7902_1.jpg","Allure\16-7902K_box.jpg"
+AL-16-8002K,,Pants,AL-16-8002K,0,product,"Allure\16-8002_1.jpg","Allure\16-8002K_box.jpg"
+AL-16-8602K,,Pants,AL-16-8602K,0,product,"Allure\16-8602K_front.jpg","Allure\16-8602K_back.jpg"
+AL-17-0012K,,Dress,AL-17-0012K,0,product,"Allure\17-0012_second-500x750.jpg","Allure\17-0012_front-500x750.jpg","Allure\17-0012_back-500x750.jpg"
+AL-17-1062K,,Dress,AL-17-1062K,0,product,"Allure\17-1062K_1-Edit.jpg","Allure\17-1062K_box.jpg"
+AL-17-1072K,,Dress,AL-17-1072K,0,product,"Allure\17-1072K-Front.jpg","Allure\17-1072K-Back.jpg"
+AL-17-1142K,,Dress,AL-17-1142K,0,product,"Allure\17-1142K-Front.jpg","Allure\17-1142K-Back.jpg"
+AL-17-1202X,,Dress,AL-17-1202X,0,product,"Allure\17-1202X_1.jpg","Allure\17-1202X_2.jpg"
+AL-17-1502K,,Dress,AL-17-1502K,0,product,"Allure\17-1502K_front.jpg","Allure\17-1502K_second.jpg","Allure\17-1502K_back.jpg"
+AL-17-2002K,,Dress,AL-17-2002K,0,product,"Allure\17-2002_1.jpg","Allure\17-2002K_box.jpg"
+AL-17-2005-BLK-XL,"Faux Leather Dress / Black / XLarge",Dress,AL-17-2005,1,product,"Allure\17-2005_1",
+AL-17-2005-BLK-L,"Faux Leather Dress / Black / Large",Dress,AL-17-2005,0,product,"Allure\17-2005_1",
+AL-17-2005-BLK-M,"Faux Leather Dress / Black / Medium",Dress,AL-17-2005,0,product,"Allure\17-2005_1",
+AL-17-2005-BLK-S,"Faux Leather Dress / Black / Small",Dress,AL-17-2005,0,product,"Allure\17-2005_1",
+AL-17-2042K,,Dress,AL-17-2042K,0,product,"Allure\17-2042K-01.jpg","Allure\17-2042K-03.jpg","Allure\17-2042K-02.jpg"
+AL-17-3042K,,Dress,AL-17-3042K,3,product,"Allure\17-3042K-Front.jpg","Allure\17-3042K-Back.jpg"
+AL-17-3082K,,Dress,AL-17-3082K,0,product,"Allure\17-3082K-01.jpg","Allure\17-3082K-03.jpg","Allure\17-3082K-02.jpg"
+AL-17-3502-BLK-L/XL,"A beautiful wet look mini dress with nylon cutaways on the front and back. / Black / Large/XLarge",Dress,AL-17-3502,0,product,"Allure\17-3502_1-blk",
+AL-17-3602XK,,Dress,AL-17-3602XK,0,product,"Allure\17-3602XK_1.jpg","Allure\17-3602XK_3.jpg","Allure\17-3602XK_2.jpg"
+AL-17-3702-O/S,,"Gowns & Robes",AL-17-3702-O/S,0,product,"Allure\17-3702_2.jpg","Allure\17-3702_1.jpg","Allure\17-3702_3.jpg","Allure\17-3702_4.jpg"
+AL-17-3702-OSX,,"Gowns & Robes",AL-17-3702-OSX,0,product,"Allure\17-3702_2.jpg","Allure\17-3702_1.jpg","Allure\17-3702_3.jpg","Allure\17-3702_4.jpg"
+AL-17-3703-O/S,,"Gowns & Robes",AL-17-3703-O/S,0,product,"Allure\17-3703_1.jpg","Allure\17-3703_2.jpg"
+AL-17-3703-OSX,,"Gowns & Robes",AL-17-3703-OSX,0,product,Allure,"Allure\17-3703_1.jpg","Allure\17-3703_2.jpg"
+AL-17-3704-O/S,,"Gowns & Robes",AL-17-3704-O/S,0,product,"Allure\17-3704_1.jpg","Allure\17-3704_2.jpg"
+AL-17-3704-OSX,,"Gowns & Robes",AL-17-3704-OSX,0,product,"Allure\17-3704_1.jpg","Allure\17-3704_2.jpg"
+AL-17-4002RX,,Dress,AL-17-4002RX,0,product,"Allure\17-4002X_red.jpg",
+AL-17-4002X,,Dress,AL-17-4002X,0,product,"Allure\17-4002X_1-blk.jpg","Allure\17-4002X_2-blk.jpg"
+AL-17-6502K,,Dress,AL-17-6502K,0,product,"Allure\17-6502K_3.jpg","Allure\17-6502K_1.jpg","Allure\17-6502K_2.jpg"
+AL-17-6802XK,,Dress,AL-17-6802XK,2,product,"Allure\17-6802XK-01.jpg","Allure\17-6802XK-03.jpg","Allure\17-6802XK-02.jpg"
+AL-17-7602XK,,Dress,AL-17-7602XK,0,product,"Allure\17-7602XK-Front.jpg","Allure\17-7602XK-Back.jpg"
+AL-17-8602K,,Dress,AL-17-8602K,0,product,"Allure\17-8602K_3.jpg","Allure\17-8602K_1.jpg","Allure\17-8602K_2.jpg"
+AL-2024,,Accessories,AL-2024,0,product,"Allure\2024_1.jpg","Allure\2024_2.jpg"
+AL-2027,,Accessories,AL-2027,0,product,"Allure\2027_1.jpg","Allure\2027_2.jpg"
+AL-2028,,Accessories,AL-2028,0,product,"Allure\2028_1.jpg","Allure\2028_2.jpg"
+AL-2029,,Accessories,AL-2029,0,product,"Allure\2029_1.jpg","Allure\2029_2.jpg"
+AL-2030,,Accessories,AL-2030,0,product,"Allure\2030_1.jpg","Allure\2030_2.jpg"
+AL-2031,,Accessories,AL-2031,0,product,"Allure\2031_1.jpg","Allure\2031_2.jpg"
+AL-2033,,Accessories,AL-2033,0,product,"Allure\2033_2.jpg",
+AL-2039,,Accessories,AL-2039,0,product,"Allure\2039_2.jpg",
+AL-2040,,Accessories,AL-2040,0,product,"Allure\2040_2.jpg",
+AL-2041,,Accessories,AL-2041,0,product,"Allure\2041_2.jpg",
+AL-2049,,Accessories,AL-2049,0,product,"Allure\2049_2.jpg",
+AL-2050,,Accessories,AL-2050,0,product,"Allure\2050_1.jpg","Allure\2050_2.jpg"
+AL-2052,,Accessories,AL-2052,0,product,"Allure\2052_1.jpg","Allure\2052_2.jpg"
+AL-2053,,Accessories,AL-2053,0,product,"Allure\2053_1.jpg","Allure\2053_2.jpg"
+AL-2055,,Accessories,AL-2055,0,product,"Allure\2055_2.jpg",
+AL-2058,,Accessories,AL-2058,0,product,"Allure\2058_2.jpg",
+AL-2059,,Accessories,AL-2059,0,product,"Allure\2059_2.jpg",
+AL-2060,,Accessories,AL-2060,0,product,"Allure\2060_1.jpg","Allure\2060_2.jpg"
+AL-2075,,Accessories,AL-2075,0,product,"Allure\2075_1.jpg","Allure\2075_2.jpg"
+AL-2077,,Accessories,AL-2077,0,product,"Allure\2077_1.jpg","Allure\2077_2.jpg"
+AL-2078,,Accessories,AL-2078,0,product,"Allure\2078_1.jpg","Allure\2078_3.jpg","Allure\2078_2.jpg"
+AL-2079,,Accessories,AL-2079,0,product,"Allure\2079_1.jpg","Allure\2079_2.jpg"
+AL-2081,,Accessories,AL-2081,0,product,"Allure\2081-2.jpg","Allure\2081-1.jpg","Allure\2081-3.jpg"
+AL-2082,,Cuffs,AL-2082,0,product,"Allure\2082-2.jpg","Allure\2082-1.jpg","Allure\2082-3.jpg"
+AL-2083,,Accessories,AL-2083,0,product,"Allure\2083-3.jpg","Allure\2083-2.jpg","Allure\2083-1.jpg"
+AL-2084,,Accessories,AL-2084,0,product,"Allure\2084-2.jpg","Allure\2084-1.jpg","Allure\2084-3.jpg"
+AL-2085,,Accessories,AL-2085,0,product,"Allure\2085-2.jpg","Allure\2085-1.jpg"
+AL-2086,,Accessories,AL-2086,0,product,"Allure\2086-2.jpg","Allure\2086-1.jpg"
+AL-2087,,Accessories,AL-2087,0,product,"Allure\2087-1.jpg","Allure\2087-.jpg","Allure\2087-3.jpg"
+AL-2088,,Cuffs,AL-2088,0,product,"Allure\2088-1.jpg","Allure\2088-2.jpg","Allure\2088-3.jpg"
+AL-2089,,Accessories,AL-2089,0,product,Allure2089-1,"Allure\2089-1.jpg","Allure\2089-2.jpg"
+AL-2090,,Cuffs,AL-2090,0,product,"Allure\2090-2.jpg","Allure\2090-3.jpg","Allure\2090-1.jpg"
+AL-2091,,Accessories,AL-2091,0,product,"Allure\2091-2.jpg","Allure\2091-3.jpg","Allure\2091-1.jpg"
+AL-2092,,Cuffs,AL-2092,0,product,"Allure\2092-3.jpg","Allure\2092-2.jpg"
+AL-23-3072Z,,Brief,AL-23-3072Z,1,product,"Allure\23-3072Z-Front.jpg","Allure\23-3072Z-Back.jpg"
+AL-24-1042Z,,Thong,AL-24-1042Z,0,product,"Allure\24-1042Z_1-Edit.jpg","Allure\24-1042Z_box.jpg"
+AL-24-1052Z,,Thong,AL-24-1052Z,0,product,"Allure\24-1052Z_1-Edit.jpg","Allure\24-1052Z_box.jpg"
+AL-24-2002Z,,Thong,AL-24-2002Z,0,product,"Allure\24-2002Z_1.jpg","Allure\24-2002Z_box.jpg"
+AL-24-2502Z,,Thong,AL-24-2502Z,0,product,"Allure\24-2502Z_1.jpg","Allure\24-2502Z_box.jpg"
+AL-24-4802Z,,Thong,AL-24-4802Z,0,product,"Allure\24-4802Z_1.jpg","Allure\24-4802Z_box.jpg"
+AL-24-5502Z,,Thong,AL-24-5502Z,0,product,"Allure\24-5502Z-Front.jpg","Allure\24-5502Z-Back.jpg"
+AL-26-5602Z,,Tops,AL-26-5602Z,0,product,"Allure\26-5602Z-Front.jpg","Allure\26-5602Z-Back.jpg"
+AL-28-2042-BLK-S/M,"Fearless, cage-detail briefs  with metal ring joiners and a waist harness with detachable leash. / Black / Small/Medium",Bondage,AL-28-2042,1,product,"Allure\28-2042_1-",
+AL-28-2042-BLK-L/XL,"Fearless, cage-detail briefs  with metal ring joiners and a waist harness with detachable leash. / Black / Large/XLarge",Bondage,AL-28-2042,0,product,"Allure\28-2042_1-",
+AL-33-3042Z,,Shorts,AL-33-3042Z,0,product,"Allure\33-3042Z-Front.jpg","Allure\33-3042Z-Back.jpg"
+AL-33-4502Z,,Shorts,AL-33-4502Z,0,product,"Allure\33-4502Z-Front.jpg","Allure\33-4502Z-Back.jpg"
+AL-33-5602Z,,Shorts,AL-33-5602Z,0,product,"Allure\33-5602Z-Front.jpg","Allure\33-5602Z-Back.jpg"
+AL-33-6402Z,,Shorts,AL-33-6402Z,0,product,"Allure\33-6402Z-Front.jpg","Allure\33-6402Z-Back.jpg"
+AL-33-8032Z,,Shorts,AL-33-8032Z,1,product,"Allure\33-8032Z_1-2.jpg",
+AL-4-0012K,,Teddy,AL-4-0012K,0,product,"Allure\4-0012_front.jpg","Allure\4-0012_back.jpg"
+AL-4-0022K,,Teddy,AL-4-0022K,2,product,"Allure\4-0022_front.jpg","Allure\4-0022_back.jpg"
+AL-4-0602XK,,Teddy,AL-4-0602XK,0,product,"Allure\4-0602XK_1-500x750.jpg","Allure\4-0602XK_3-500x750.jpg","Allure\4-0602XK_2-500x750.jpg"
+AL-4-0802XK,,Teddy,AL-4-0802XK,0,product,"Allure\4-0802XK_3-500x750.jpg","Allure\4-0802XK_1-500x750.jpg","Allure\4-0802XK_4-500x750.jpg","Allure\4-0802XK_2-500x750.jpg"
+AL-4-1075,,Teddy,AL-4-1075,0,product,"Allure\4-1075_front.jpg","Allure\4-1075_second.jpg","Allure\4-1075_back.jpg"
+AL-4-1082K,,Teddy,AL-4-1082K,0,product,"Allure\4-1082K_1-Edit.jpg","Allure\4-1082K_box.jpg"
+AL-4-1372K,,Teddy,AL-4-1372K,0,product,"Allure\4-1372K_second-1-500x750.jpg","Allure\4-1372K_front-500x750.jpg","Allure\4-1372K_back-500x750.jpg"
+AL-4-1382K,,Teddy,AL-4-1382K,0,product,"Allure\4-1382K_second-500x750.jpg","Allure\4-1382K_front-500x750.jpg","Allure\4-1382K_back-500x750.jpg"
+AL-4-1775,,Teddy,AL-4-1775,0,product,"Allure\4-1775_second.jpg","Allure\4-1775_front.jpg","Allure\4-1775_back.jpg"
+AL-4-1805,,Teddy,AL-4-1805,0,product,"Allure\4-1805_front.jpg","Allure\4-1805_second.jpg","Allure\4-1805_back.jpg"
+AL-4-2002K,,Teddy,AL-4-2002K,0,product,"Allure\4-2002_1.jpg","Allure\4-2002K_box.jpg"
+AL-4-2602K,,Teddy,AL-4-2602K,0,product,"Allure\4-2602K-01.jpg","Allure\4-2602K-03.jpg","Allure\4-2602K-02.jpg"
+AL-4-3065K,,Bodysuit,AL-4-3065K,0,product,"Allure\4-3065K_front-500x750.jpg","Allure\4-3065K_second-500x750.jpg","Allure\4-3065K_back-500x750.jpg"
+AL-4-4103-RUBY-1X/2X,"Leopard Lace up Teddy burgundy   / Ruby / 1X/2X",Teddy,AL-4-4103,1,product,"Allure\4-4103_1",
+AL-4-4103-RUBY-2X/3X,"Leopard Lace up Teddy burgundy   / Ruby / 2X/3X",Teddy,AL-4-4103,0,product,"Allure\4-4103_1",
+AL-4-5602XK,,Teddy,AL-4-5602XK,0,product,"Allure\4-5602XK-01.jpg","Allure\4-5602XK-03.jpg","Allure\4-5602XK-02.jpg"
+AL-4-6055,,Teddy,AL-4-6055,0,product,"Allure\4-6055_front.jpg","Allure\4-6055_second.jpg","Allure\4-6055_back.jpg"
+AL-4-6255,,Teddy,AL-4-6255,0,product,"Allure\4-6255_front.jpg","Allure\4-6255_second.jpg","Allure\4-6255_back.jpg"
+AL-4-6502K,,Teddy,AL-4-6502K,0,product,"Allure\4-6502K_1.jpg","Allure\4-6502K_3.jpg","Allure\4-6502K_2.jpg"
+AL-4-9402K,,Teddy,AL-4-9402K,0,product,"Allure\4-9402_1.jpg","Allure\4-9402K_box.jpg"
+AL-5-2002RX,,Tops,AL-5-2002RX,0,product,"Allure\5-2002X_red.jpg",
+AL-5-2002X,,Tops,AL-5-2002X,0,product,"Allure\5-2002X_1-blk.jpg","Allure\5-2002X_2-blk.jpg"
+AL-5-6402XK,,"Bustiers & Corsets",AL-5-6402XK,0,product,"Allure\5-6402XK_3.jpg","Allure\5-6402XK_1.jpg","Allure\5-6402XK_2.jpg"
+AL-5-6602XK,,Tops,AL-5-6602XK,0,product,"Allure\5-6602XK-Front.jpg","Allure\5-6602XK-Back.jpg"
+AL-5-8602K,,"Bustiers & Corsets",AL-5-8602K,0,product,"Allure\5-8602K_1.jpg","Allure\5-8602K_3.jpg","Allure\5-8602K_2.jpg"
+AL-7-1002K,,Tights,AL-7-1002K,4,product,"Allure\7-1002K_1-Edit.jpg",
+AL-7-2502R-RED-L/XL,"Sensationally saucy chaps for her. Featuring supple wet look stockings with waist strap and nylon detailing. / Red / Large/XLarge",Stockings,AL-7-2502R,3,product,"Allure\7-2502_3-red",
+AL-7-2502R-RED-S/M,"Sensationally saucy chaps for her. Featuring supple wet look stockings with waist strap and nylon detailing. / Red / Small/Medium",Stockings,AL-7-2502R,4,product,"Allure\7-2502_3-red",
+AL-7-2602K,,Tights,AL-7-2602K,3,product,"Allure\7-2602K-03.jpg","Allure\7-2602K-02.jpg","Allure\7-2602K-01.jpg"
+AL-7-3602K,,Tights,AL-7-3602K,11,product,"Allure\7-3602K-02.jpg","Allure\7-3602K-01.jpg"
+AL-7-4602K,,Tights,AL-7-4602K,0,product,"Allure\7-4602K-03.jpg","Allure\7-4602K-02.jpg","Allure\7-4602K-01.jpg"
+AL-7-5022K,,Garterhose,AL-7-5022K,1,product,"Allure\7-5022K-Front.jpg","Allure\7-5022K-Back.jpg"
+AL-7-6602K,,Garterhose,AL-7-6602K,0,product,"Allure\7-6602K_front.jpg","Allure\7-6602K_second.jpg","Allure\7-6602K_back.jpg"
+AL-A1001,,Panty,AL-A1001,0,product,"Allure\A1001-full.jpg","Allure\A1001.jpg","Allure\A1001-back.jpg","Allure\A1001-front.jpg"
+AL-A1002,,Panty,AL-A1002,3,product,"Allure\A1002-full.jpg","Allure\A1002.jpg","Allure\A1002-front.jpg","Allure\A1002_back.jpg"
+AL-A1004,,Panty,AL-A1004,2,product,"Allure\A1004-full.jpg","Allure\A1004-front.jpg","Allure\A1004-back.jpg"
+AL-A1005,,Panty,AL-A1005,0,product,"Allure\A1005-full.jpg","Allure\A1005.jpg","Allure\A1005-front.jpg","Allure\A1005-back.jpg"
+AL-A1007,,Panty,AL-A1007,2,product,"Allure\A1007-full.jpg","Allure\A1007.jpg","Allure\A1007-front.jpg","Allure\A1007-back.jpg"
+AL-A1008,,Panty,AL-A1008,0,product,"Allure\A1008-full.jpg","Allure\A1008.jpg","Allure\A1008-front.jpg","Allure\A1008-back.jpg"
+AL-A1010,,Panty,AL-A1010,0,product,"Allure\A1010-full.jpg","Allure\A1010.jpg","Allure\A1010-front.jpg","Allure\A1010-back.jpg"
+AL-A1014,,Accessories,AL-A1014,0,product,"Allure\1014.jpg","Allure\1014-4.jpg","Allure\1014-2.jpg","Allure\1014-3.jpg","Allure\1014-1.jpg"
+AL-A1015-BLK-L,"ADORE SKYE EDGY TEDDY AND SHEER SKIRT LARGE / BLACK / Large",Teddy,AL-A1015,2,product,"Allure\1015-1",
+AL-A1015-BLK-M,"ADORE SKYE EDGY TEDDY AND SHEER SKIRT MEDIUM / BLACK / Medium",Teddy,AL-A1015,1,product,"Allure\1015-1",
+AL-A1015-BLK-S,"ADORE SKYE EDGY TEDDY AND SHEER SKIRT SMALL / BLACK / Small",Teddy,AL-A1015,1,product,"Allure\1015-1",
+AL-A1016-BLK-S,"ADORE I'M YOUR FANTASY MERMAID DRESS WITH TULLE TAIL SMALL / BLACK / Small",Dress,AL-A1016,1,product,"Allure\1016-1",
+AL-A1016-BLK-L,"ADORE I'M YOUR FANTASY MERMAID SKIRT WITH TULLE TAIL LARGE / BLACK / Large",Dress,AL-A1016,0,product,"Allure\1016-1",
+AL-A1016-BLK-M,"ADORE I'M YOUR FANTASY MERMAID DRESS WITH TULLE TAIL MEDIUM / BLACK / Medium",Dress,AL-A1016,0,product,"Allure\1016-1",
+AL-A1018-BLK-L,"ADORE TIA HEAVENLY BODY WITH PLUNGING V-NECK & DREAMY SHEER SLEEVES LARGE / BLACK / Large",Bodysuit,AL-A1018,0,product,"Allure\1018-1",
+AL-A1018-BLK-S,"ADORE SKYE HEAVENLY BODY WITH PLUNGING V-NECK & DREAMY SHEER SLEEVES SMALL / BLACK / Small",Bodysuit,AL-A1018,1,product,"Allure\1018-1",
+AL-A1019-BLK-M,"ADORE CHLOE UNTAMED HEART CORSELETTE WITH GARTERS MEDIUM / BLACK / Medium","Bustiers & Corsets",AL-A1019,0,product,"Allure\1019-1",
+AL-A1019-BLK-S,"ADORE CHLOE UNTAMED HEART CORSELETTE WITH GARTERS SMALL / BLACK / Small","Bustiers & Corsets",AL-A1019,1,product,"Allure\1019-1",
+AL-A1019-BLK-L,"ADORE CHLOE UNTAMED HEART CORSELETTE WITH GARTERS LARGE / BLACK / Large","Bustiers & Corsets",AL-A1019,0,product,"Allure\1019-1",
+AL-10-2007-BLK-L/XL,"Skin Tight Hooded Jumper / Black / Large/XLarge",Tops,AL-10-2007,3,product,"Allure\10-2007_1.jpg","Allure\10-2007_2.jpg","Allure\10-2007_box.jpg"
+AL-10-2007-BLK-S/M,"Skin Tight Hooded Jumper / Black / Small/Medium",Tops,AL-10-2007,0,product,"Allure\10-2007_1.jpg","Allure\10-2007_2.jpg","Allure\10-2007_box.jpg"
+AL-A1020-BLK-L,"ADORE TIA JUST A KISS SHEER BODY LARGE / BLACK / Large",Bodysuit,AL-A1020,0,product,"Allure\1020-1",
+AL-A1020-BLK-M,"ADORE TIA JUST A KISS SHEER BODY MEDIUM / BLACK / Medium",Bodysuit,AL-A1020,0,product,"Allure\1020-1",
+AL-A1021-BLK-L,"ADORE CHLOE SWEET & DELICIOUS FISHNET BODY WITH HOODY & CUT OUT  / BLACK / Large",Bodysuit,AL-A1021,2,product,"Allure\1021-2",
+AL-A1021-BLK-M,"ADORE CHLOE SWEET & DELICIOUS FISHNET BODY WITH HOODY & CUT OUT BACK MEDIUM / BLACK / Medium",Bodysuit,AL-A1021,0,product,"Allure\1021-2",
+AL-A1021-BLK-S,"ADORE CHLOE SWEET & DELICIOUS FISHNET BODY WITH HOODY & CUT OUT BACK SMALL / BLACK / Small",Bodysuit,AL-A1021,0,product,"Allure\1021-2",
+AL-10-2402XK,,Teddy,AL-10-2402XK,0,product,"Allure\10-2402XK_1.jpg","Allure\10-2402XK_2.jpg","Allure\10-2402XK_3.jpg","Allure\10-2402XK_4.jpg"
+AL-A1022-BLK-L,"ADORE COCO GLAMOROUS SEQUINS & SHEER BODY LARGE / BLACK / Large",Bodysuit,AL-A1022,0,product,"Allure\1022-1",
+AL-A1022-BLK-S,"ADORE COCO GLAMOROUS SEQUINS & SHEER BODY SMALL / BLACK / Small",Bodysuit,AL-A1022,0,product,"Allure\1022-1",
+AL-10-2602K,,Bodysuit,AL-10-2602K,0,product,"Allure\10-2602K-01.jpg","Allure\10-2602K-02.jpg","Allure\10-2602K-03.jpg"
+AL-A1023-BLK-L,"ADORE SKYE SHEER SLEEVLESS BODY WITH WILD ZIPPER FRONT LARGE / BLACK / Large",Bodysuit,AL-A1023,1,product,"Allure\1023-1",
+AL-A1023-BLK-S,"ADORE SKYE SHEER SLEEVLESS BODY WITH WILD ZIPPER FRONT SMALL / BLACK / Small",Bodysuit,AL-A1023,1,product,"Allure\1023-1",
+AL-A1023-BLK-M,"ADORE SKYE SHEER SLEEVLESS BODY WITH WILD ZIPPER FRONT MEDIUM / BLACK / Medium",Bodysuit,AL-A1023,0,product,"Allure\1023-1",
+AL-10-3042K,,Bodysuit,AL-10-3042K,0,product,"Allure\10-3042K-Front.jpg","Allure\10-3042K_boxes.jpg","Allure\10-3042K-back.jpg"
+AL-A1024-BLK-L,"ADORE CHLOE FLIRTY AND COY HOODED LACE BRA & PANTY  LARGE / BLACK / Large","Bra Set",AL-A1024,3,product,"Allure\1024-1",
+AL-A1024-BLK-M,"ADORE CHLOE FLIRTY AND COY HOODED LACE BRA & PANTY MEDIUM / BLACK / Medium","Bra Set",AL-A1024,2,product,"Allure\1024-1",
+AL-A1024-BLK-S,"ADORE CHLOE FLIRTY AND COY HOODED LACE BRA & PANTY SMALL / BLACK / Small","Bra Set",AL-A1024,2,product,"Allure\1024-1",
+AL-10-3602K,,Tops,AL-10-3602K,0,product,"Allure\10-3602K-01.jpg","Allure\10-3602K-02.jpg","Allure\10-3602K-03.jpg"
+AL-10-4007-RED-L/XL,"Seductively Red Catsuit / Red / Large/XLarge",Catsuit,AL-10-4007,1,product,"Allure\10-4007_1.jpg","Allure\10-4007_2.jpg","Allure\10-4007_box.jpg"
+AL-10-4602K,,Tops,AL-10-4602K,6,product,"Allure\10-4602K-01.jpg","Allure\10-4602K-02.jpg","Allure\10-4602K-03.jpg"
+AL-10-5502K,,Catsuit,AL-10-5502K,3,product,"Allure\10-5502_1.jpg","Allure\10-5502K_box.jpg"
+AL-A1027-BLK-L,"ADORE CHLOE CANDY SWEET LACE BODY WITH CRISSCROSS BACK STRAPS LARGE / BLACK / Large",Bodysuit,AL-A1027,1,product,"Allure\1027-1",
+AL-A1027-BLK-S,"ADORE CHLOE CANDY SWEET LACE BODY WITH CRISSCROSS BACK STRAPS SMALL / BLACK / Small",Bodysuit,AL-A1027,2,product,"Allure\1027-1",
+AL-A1027-BLK-M,"ADORE CHLOE CANDY SWEET LACE BODY WITH CRISSCROSS BACK STRAPS MEDIUM / BLACK / Medium",Bodysuit,AL-A1027,0,product,"Allure\1027-1",
+AL-A1028-BLK-L,"ADORE TIA WHISPER TO ME IN SHEER SLEEVLESS BODY WITH PLUNGING FRONT LARGE / BLACK / Large",Bodysuit,AL-A1028,2,product,"Allure\1028-1",
+AL-A1028-BLK-M,"ADORE TIA WHISPER TO ME IN SHEER SLEEVLESS BODY WITH PLUNGING FRONT MEDIUM / BLACK / Medium",Bodysuit,AL-A1028,1,product,"Allure\1028-1",
+AL-A1028-BLK-S,"ADORE TIA WHISPER TO ME IN SHEER SLEEVLESS BODY WITH PLUNGING FRONT SMALL / BLACK / Small",Bodysuit,AL-A1028,2,product,"Allure\1028-1",
+AL-A1030-BLK-L,"ADORE FREYA LACE CORSELETTE INSPIRED DRESS WITH GARTERS LARGE / BLACK / Large",Dress,AL-A1030,2,product,"Allure\1030-1",
+AL-A1030-BLK-S,"ADORE FREYA LACE CORSELETTE INSPIRED DRESS WITH GARTERS SMALL / BLACK / Small",Dress,AL-A1030,5,product,"Allure\1030-1",
+AL-A1030-BLK-M,"ADORE FREYA LACE CORSELETTE INSPIRED DRESS WITH GARTERS MEDIUM / BLACK / Medium",Dress,AL-A1030,0,product,"Allure\1030-1",
+AL-A1033-BLK-L,"ADORE FREYA SEE THROUGH ME BANDEAU TOP, SKIRT & G-STRING LARGE / BLACK / Large",Set,AL-A1033,2,product,"Allure\1033-1",
+AL-A1033-BLK-M,"ADORE FREYA SEE THROUGH ME BANDEAU TOP, SKIRT & G-STRING  MEDIUM / BLACK / Medium",Set,AL-A1033,3,product,"Allure\1033-1",
+AL-A1033-BLK-S,"ADORE FREYA SEE THROUGH ME BANDEAU TOP, SKIRT & G-STRING SMALL / BLACK / Small",Set,AL-A1033,2,product,"Allure\1033-1",
+AL-A1034-BLK-L,"ADORE LEIA LUSCIOUS CAGE SKIRT WITH PROVACATIVE LACE BRA LARGE / BLACK / Large",Set,AL-A1034,2,product,"Allure\1034-1",
+AL-A1034-BLK-S,"ADORE LEIA LUSCIOUS CAGE SKIRT WITH PROVACATIVE LACE BRA SMALL / BLACK / Small",Set,AL-A1034,2,product,"Allure\1034-1",
+AL-A1034-BLK-M,"ADORE LEIA LUSCIOUS CAGE SKIRT WITH PROVACATIVE LACE BRA MEDIUM / BLACK / Medium",Set,AL-A1034,0,product,"Allure\1034-1",
+AL-A1035-BLK-L,"ADORE SKYE RAVISHING TEDDY WITH FLIRTY RIBBON BACK LARGE / BLACK / Large",Teddy,AL-A1035,2,product,"Allure\1035-1",
+AL-A1035-BLK-M,"ADORE SKYE RAVISHING TEDDY WITH FLIRTY RIBBON BACK MEDIUM / BLACK / Medium",Teddy,AL-A1035,1,product,"Allure\1035-1",
+AL-A1035-BLK-S,"ADORE SKYE RAVISHING TEDDY WITH FLIRTY RIBBON BACK SMALL / BLACK / Small",Teddy,AL-A1035,1,product,"Allure\1035-1",
+AL-A1036-BLK-L,"ADORE FREYA ANGEL OF LOVE LACE TEDDY LARGE / BLACK / Large",Teddy,AL-A1036,3,product,"Allure\1036-1",
+AL-A1036-BLK-S,"ADORE FREYA ANGEL OF LOVE LACE TEDDY SMALL / BLACK / Small",Teddy,AL-A1036,1,product,"Allure\1036-1",
+AL-A1036-BLK-M,"ADORE FREYA ANGEL OF LOVE LACE TEDDY MEDIUM / BLACK / Medium",Teddy,AL-A1036,0,product,"Allure\1036-1",
+AL-A1038-BLK-M,"ADORE LEIA ALMOST NUDE ELEGANCE WITH A TWIST MESH DRESS MEDIUM / BLACK / Medium",Dress,AL-A1038,3,product,"Allure\1038-1",
+AL-A1038-BLK-L,"ADORE LEIA ALMOST NUDE ELEGANCE WITH A TWIST MESH DRESS LARGE / BLACK / Large",Dress,AL-A1038,0,product,"Allure\1038-1",
+AL-A1038-BLK-S,"ADORE LEIA ALMOST NUDE ELEGANCE WITH A TWIST MESH DRESS SMALL / BLACK / Small",Dress,AL-A1038,0,product,"Allure\1038-1",
+AL-A1039-BLK-L,"ADORE CHLOE LOVE ME TENDER LACE TEDDY LARGE / BLACK / Large",Teddy,AL-A1039,2,product,"Allure\1039-1",
+AL-A1039-BLK-M,"ADORE CHLOE LOVE ME TENDER LACE TEDDY MEDIUM / BLACK / Medium",Teddy,AL-A1039,1,product,"Allure\1039-1",
+AL-A1039-BLK-S,"ADORE CHLOE LOVE ME TENDER LACE TEDDY SMALL / BLACK / Small",Teddy,AL-A1039,2,product,"Allure\1039-1",
+AL-A1040-BLK-L,"ADORE I'M YOUR FANTASY MERMAID DRESS WITH TULLE TAIL SMALL / BLACK / Large",Bodysuit,AL-A1040,2,product,"Allure\1040-1",
+AL-A1040-BLK-M,"ADORE SKYE IRRESISTABLY SHEER BODY WITH ENTICING V SHAPE MEDIUM / BLACK / Medium",Bodysuit,AL-A1040,1,product,"Allure\1040-1",
+AL-A1040-BLK-S,"ADORE SKYE IRRESISTABLY SHEER BODY WITH ENTICING V SHAPE SMALL / BLACK / Small",Bodysuit,AL-A1040,0,product,"Allure\1040-1",
+AL-A1041-RED-L,"ADORE COCO ENCHANTING SLEEVELESS SEQUINS & SHEER HIGH NECK BODY SMALL / RED / Large",Teddy,AL-A1041,1,product,"Allure\1041A-600x800.jpg","Allure\1041C-600x800.jpg","Allure\1041B-600x800.jpg"
+AL-A1041-RED-M,"ADORE I'M YOUR FANTASY MERMAID SKIRT WITH TULLE TAIL LARGE / RED / Medium",Teddy,AL-A1041,0,product,"Allure\1041A-600x800.jpg","Allure\1041C-600x800.jpg","Allure\1041B-600x800.jpg"
+AL-A1041-RED-S,"ADORE I'M YOUR FANTASY MERMAID DRESS WITH TULLE TAIL MEDIUM / RED / Small",Teddy,AL-A1041,1,product,"Allure\1041A-600x800.jpg","Allure\1041C-600x800.jpg","Allure\1041B-600x800.jpg"
+AL-A1043,,Accessories,AL-A1043,1,product,"Allure\A1043_F.jpg",
+AL-A1045-RED-S,"ADORE FREYA ANGEL OF LOVE LACE TEDDY MEDIUM / RED / Small",Teddy,AL-A1045,1,product,"Allure\1045A-600x800.jpg","Allure\1045B-600x800.jpg","Allure\1045C-600x800.jpg"
+AL-A1045-RED-L,"ADORE FREYA ANGEL OF LOVE LACE TEDDY LARGE / RED / Large",Teddy,AL-A1045,0,product,"Allure\1045A-600x800.jpg","Allure\1045B-600x800.jpg","Allure\1045C-600x800.jpg"
+AL-A1045-RED-M,"ADORE FREYA ANGEL OF LOVE LACE TEDDY LARGE / RED / Medium",Teddy,AL-A1045,0,product,"Allure\1045A-600x800.jpg","Allure\1045B-600x800.jpg","Allure\1045C-600x800.jpg"
+AL-A1051,,Accessories,AL-A1051,0,product,"Allure\A1051_4-600x800.jpg","Allure\A1051_1-600x899.jpg","Allure\A1051_5-600x899.jpg","Allure\A1051_6-600x899.jpg"
+AL-A1066,,Gloves,AL-A1066,0,product,"Allure\A1066_5-600x800.jpg","Allure\A1066_5-copy-1-600x424.jpg","Allure\A1066_1-600x899.jpg","Allure\A1066_3-600x899.jpg"
+AL-A1067,,Masks,AL-A1067,0,product,"Allure\A1067_1-600x600.jpg",
+AL-A1068,,Accessories,AL-A1068,0,product,"Allure\A1068_1-600x600.jpg",
+AL-A1069,,Cuffs,AL-A1069,0,product,"Allure\A1069_1-600x600.jpg","Allure\A1069_2-600x600.jpg"
+AL-A1070,,Accessories,AL-A1070,0,product,"Allure\A1070_1-600x600.jpg",
+AL-A1071,,Panty,AL-A1071,1,product,"Allure\A1071_back-600x600.jpg","Allure\A1071_front-600x600.jpg","Allure\A1071_1-600x600.jpg","Allure\A1071_2-600x600.jpg"
+AL-A1084,,Masks,AL-A1084,0,product,"Allure\A1084_1-600x600.jpg","Allure\A1084_2-600x600.jpg"
+AL-A1085,,Accessories,AL-A1085,0,product,"Allure\A1085_1-600x600.jpg","Allure\A1085_2-600x600.jpg"
+AL-A1086,,Accessories,AL-A1086,0,product,"Allure\A1086_2-600x600.jpg","Allure\A1086_1-600x600.jpg"
+AL-A1087,,Cuffs,AL-A1087,0,product,"Allure\A1087_1-600x600.jpg","Allure\A1087_2-600x600.jpg"
+AL-A1088,,Cuffs,AL-A1088,0,product,"Allure\A1088_1-600x600.jpg",
+AL-C-2005,,Accessories,AL-C-2005,0,product,"Allure\C-2005_1.jpg","Allure\C-2005_3.jpg"
+AL-G-2002K,,Gloves,AL-G-2002K,0,product,AllureG-2002_1,"Allure\G-2002_1.jpg"
+AL-G-3005,,Gloves,AL-G-3005,0,product,"Allure\G-3005_1.jpg","Allure\G-3005_3.jpg"
+AL-G-4005,,Gloves,AL-G-4005,0,product,"Allure\G-4005_1.jpg","Allure\G-4005_3.jpg"
+AL-G-8002K,,Gloves,AL-G-8002K,0,product,"Allure\G-8002_1.jpg","Allure\G-8002K_box.jpg"
+AL-G-8012K,,Gloves,AL-G-8012K,0,product,"Allure\G-8012_1.jpg","Allure\G-8012K_box.jpg"
+AL-L002-BLK-S/M,"Lace Boxer / Black / Small/Medium",Boxer,AL-L002,1,product,"Allure\L002_1",
+AL-L002-BLK-L/XL,"Lace Boxer / Black / Large/XLarge",Boxer,AL-L002,0,product,"Allure\L002_1",
+AL-L010-BLK-S/M,"Lace Open Back Brief  / Black / Small/Medium",Brief,AL-L010,1,product,"Allure\L010_1",
+AL-L010-BLK-L/XL,"Lace Open Back Brief  / Black / Large/XLarge",Brief,AL-L010,0,product,"Allure\L010_1",
+AL-1-1007-BLK-XL,"Vinyl Bra / Black / X-Large",Bra,AL-1-1007,2,product,"Allure\1-1007_1",
+AL-11-2247-BLK-LXL,"Vinyl Corset / Black / Large/X-Large","Bustiers & Corsets",AL-11-2247,1,product,"Allure\11-2247_1",
+AL-12-004,,Teddy,AL-12-004,0,product,"Allure\12-004_1",
+AL-12-2401BXO-BLK-OS,,"Bra Set",AL-12-2401BXO-BLK-OS,1,product,"Allure\12-2401B_1.jpg","Allure\12-2401B_2.jpg"
+AL-12-3602K-BLK-OS,"Kitten Lace And Wet Look 2Pc / Black / One Size","Bra Set",AL-12-3602K,3,product,"Allure\12-3602K-01",
+AL-12-4602K-BLK-OS,"Kitten Lace And Wet Look 2Pc Set  / Black / One Size","Bra Set",AL-12-4602K,1,product,"Allure\12-4602K_front",
+AL-12-4801-PUR/BLK-S,"Soft Touch Vinyl “Betty” 2 Piece Set / Purple/Black / Small","Bra Set",AL-12-4801,1,product,"Allure\12-4801_1",
+AL-17-3007-BLK-LXL,"Second Skin Tank Flare Dress  / Black / Large/X-Large",Dress,AL-17-3007,5,product,"Allure\17-3007_front",
+AL-17-4007-RED-LXL,"Second Skin Off Shoulder Dress / Red / Large/X-Large",Dress,AL-17-4007,1,product,"Allure\17-4007_front",
+AL-2-1007XO-BLK-OS,"Vinyl Wet & Wild Set / Black / One Size",G-String,AL-2-1007XO,1,product,"Allure\2-1007_3",
+AL-24-770-BLK-OS,"Allure Leather Ring Thong / Black / One Size",Thong,AL-24-770,1,product,"Allure\24-770_1",
+AL-4-1097-BLK-XL,"Vinyl Lace-Up Teddy / Black / X-Large",Teddy,AL-4-1097,1,product,"Allure\4-1097_1",
+AL-7-2502-BLK-LXL,"Waist Garter Tights / Black / Large/X-Large",Tights,AL-7-2502,2,product,"Allure\7-2502_2-blk",
+AL-7-2502-BLK-SM,"Waist Garter Tights / Black / Small/Medium",Tights,AL-7-2502,1,product,"Allure\7-2502_2-blk",
+AL-A1003-BLK-OS,"Adore Tangled Ecstasy / Black / One Size",Knicker,AL-A1003,21,product,"Allure\A1003-full",
+AL-A1025-BLK-L,,Bodysuit,AL-A1025-BLK-L,2,product,"Allure\1025-1.jpg","Allure\1025-2.jpg","Allure\1025-3.jpg"
+AL-A1026-BLK-L,"ADORE FREYA WILD LACE CHAPS, PANTY AND BRA LARGE / BLACK / Large",Set,AL-A1026,5,product,"Allure\1026-1",
+AL-A1026-BLK-M,"ADORE FREYA WILD LACE CHAPS, PANTY AND BRA MEDIUM / BLACK / Medium",Set,AL-A1026,4,product,"Allure\1026-1",
+AL-A1026-BLK-S,"ADORE FREYA WILD LACE CHAPS, PANTY AND BRA SMALL / BLACK / Small",Set,AL-A1026,2,product,"Allure\1026-1",
+AL-15-3007-RED-L/XL,"Red Hot Short Shorts / Red / Large/XLarge",Shorts,AL-15-3007,2,product,"Allure\15-3007_1",
+AL-15-3007-RED-S/M,"Red Hot Short Shorts / Red / Small/Medium",Shorts,AL-15-3007,2,product,"Allure\15-3007_1",
+AL-11-4602K,,"Bustiers & Corsets",AL-11-4602K,0,product,"Allure\11-4602_1.jpg","Allure\11-4602K_box.jpg"
+AL-11-7602K,,"Bustiers & Corsets",AL-11-7602K,0,product,"Allure\11-7602K-01.jpg","Allure\11-7602K-02.jpg","Allure\11-7602K-03.jpg"
+AL-12-1075,,Set,AL-12-1075,0,product,"Allure\12-1075_front.jpg","Allure\12-1075_second.jpg","Allure\12-1075_back.jpg"
+AL-13-1082K,,Skirt,AL-13-1082K,0,product,"Allure\13-1082K-Front.jpg","Allure\13-1082K-Back.jpg"
+AL-13-2602K,,Skirt,AL-13-2602K,0,product,"Allure\13-2602_1.jpg","Allure\13-2602K_box.jpg"
+AL-12-1302K,,Set,AL-12-1302K,0,product,"Allure\12-1302K_front.jpg","Allure\12-1302K_second.jpg","Allure\12-1302K_back.jpg"
+AL-17-0102XK,,Dress,AL-17-0102XK,0,product,"Allure\17-0102XK_-500x750.jpg","Allure\17-0102XK_3-500x750.jpg","Allure\17-0102XK_2-500x750.jpg"
+AL-17-1302K,,Dress,AL-17-1302K,0,product,"Allure\17-1302_1.jpg","Allure\17-1302K_box.jpg"
+AL-17-2502XK,,Dress,AL-17-2502XK,0,product,"Allure\17-2502XK_1-500x750.jpg","Allure\17-2502XK_5-500x750.jpg","Allure\17-2502XK_2-500x750.jpg"
+AL-17-5402XK,,Dress,AL-17-5402XK,0,product,"Allure\17-5402XK-03.jpg","Allure\17-5402XK-01.jpg","Allure\17-5402XK-02.jpg"
+AL-4-1025,,Teddy,AL-4-1025,0,product,"Allure\4-1025_second.jpg","Allure\4-1025_front.jpg","Allure\4-1025_back.jpg"
+AL-BF-2005,,Masks,AL-BF-2005,0,product,"Allure\BF-2005_1.jpg","Allure\BF-2005_3.jpg"
+AL-C-4005,,Accessories,AL-C-4005,0,product,"Allure\C-4005_1.jpg","Allure\C-4005_3.jpg"
+AL-12-0355,,Set,AL-12-0355,0,product,"Allure\12-0355-Front.jpg","Allure\12-0355-Back.jpg"
+AL-CM-4005,,Masks,AL-CM-4005,0,product,"Allure\CM-4005_1.jpg","Allure\CM-4005_3.jpg"

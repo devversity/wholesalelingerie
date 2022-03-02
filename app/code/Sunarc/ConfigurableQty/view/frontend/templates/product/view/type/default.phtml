@@ -1,0 +1,123 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+?>
+<?php /* @var $block \Magento\Catalog\Block\Product\View\AbstractView */?>
+<?php $_product = $block->getProduct() ?>
+<?php
+
+$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+$conf = $objectManager->get('Magento\Framework\App\Config\ScopeConfigInterface')->getValue('configurableqty/general/enable');
+$configurableProductInput = $objectManager->get('Magento\Framework\App\Config\ScopeConfigInterface')->getValue('configurableqty/general/label');
+if ($conf) { ?>
+    <?php
+    $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+    $product = $objectManager->get('Magento\Framework\Registry')->registry('current_product');//get current product
+    $productTypeInstance = $_product->getTypeInstance();
+    if ($_product->getTypeId() == \Magento\ConfigurableProduct\Model\Product\Type\Configurable::TYPE_CODE) {
+        $usedProducts = $productTypeInstance->getUsedProducts($_product);
+        ?>
+        <ul>
+            <?php foreach ($usedProducts  as $child) { ?>
+                <li class="myli" id="div<?php echo $child->getId()?>" style="display:none;list-style:none">
+                    <?php
+                    $productStockObj = $objectManager->get('Magento\CatalogInventory\Api\StockRegistryInterface')->getStockItem($child->getId());
+                    $label = $configurableProductInput;?>
+                    <h3><?php
+                        echo sprintf(__($label), round($productStockObj->getData('qty')));?></h3>
+                    <?php
+                    //echo "We have ".round($productStockObj->getData('qty'))." items in stock!";
+                    ?>
+                </li>
+            <?php } ?>
+        </ul>
+        <?php
+    } else {
+        $productStockObj = $objectManager->get('Magento\CatalogInventory\Api\StockRegistryInterface')->getStockItem($product->getId());
+        echo "We have ".round($productStockObj->getData('qty'))." items in stock!";
+    }
+    ?>
+
+
+<?php } ?>
+<?php if ($block->displayProductStockStatus()): ?>
+    <?php if ($_product->isAvailable()): ?>
+        <div class="stock available" title="<?= /* @escapeNotVerified */ __('Availability') ?>">
+            <span><?= /* @escapeNotVerified */ __('In stock') ?></span>
+        </div>
+    <?php else: ?>
+        <div class="stock unavailable" title="<?= /* @escapeNotVerified */ __('Availability') ?>">
+            <span><?= /* @escapeNotVerified */ __('Login for stock') ?></span>
+        </div>
+    <?php endif; ?>
+<?php endif; ?>
+
+
+<script type="text/javascript">
+    requirejs(['jquery','underscore'], function(jQuery,_){
+
+        jQuery(window).load(function(){
+
+            jQuery( ".product-options-wrapper div" ).click(function() {
+                selpro();
+            });
+        });
+        function selpro () {
+        //    console.log('custom function called');
+            var selected_options = {};
+             //jQuery('div.swatch-attribute').each(function(k,v){
+            jQuery('.super-attribute-select').each(function(k,v){
+
+
+                var attribute_id    = jQuery(v).attr('id');
+          //      var option_selected = jQuery(v).attr('option-selected');
+                  var option_selected =jQuery('input[name="selected_configurable_option"]').val();
+                  if(!attribute_id || !option_selected){ return;}
+                //  selected_options[attribute_id] = option_selected;  // for swatch-config
+                    selected_options = option_selected;
+                      // console.log('attribute_id: '+attribute_id);
+                      // console.log('option_selected: '+option_selected);
+
+            });
+
+            var sp_config = jQuery('#product_addtocart_form').data('mage-configurable').option('spConfig');
+    //  console.log(sp_config.index);
+
+
+                  var product_id_index = sp_config.index;
+            // var product_id_index = jQuery('[data-role=swatch-options]').data('mageSwatchRenderer').options.jsonConfig.index;// for swatch-config
+
+
+            var found_ids = [];
+            jQuery.each(product_id_index, function(product_id,attributes){
+
+            // var productIsSelected = function(attributes, selected_options){
+            //     return _.isEqual(attributes, selected_options);
+            // }  // for swatch-config
+
+                var productIsSelected = function(product_id, selected_options){
+              //    return _.isEqual(attributes, selected_options);
+                    return _.isEqual(product_id, selected_options);
+                }
+                // if(productIsSelected(attributes, selected_options)){
+                //     found_ids.push(product_id);
+                // }  // for swatch-config
+
+                if(productIsSelected(product_id, selected_options)){
+                    found_ids.push(product_id);
+                }
+            });
+
+            if (found_ids.length) {
+                var selected_product_id = found_ids[0];
+                jQuery('.myli').css('display','none');
+                jQuery('#div'+selected_product_id).toggle();
+            }
+        }
+    });
+</script>
