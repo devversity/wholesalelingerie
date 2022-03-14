@@ -198,8 +198,14 @@ class KhaosControl extends Model
                     }
 
                     try {
+                        $lastRequest = [];
                         $revisions = $this->soap_client->GetStockList(0, $date_interval, 0); // Revision Date
+                        $lastRequest[] = $this->soap_client->__getLastRequest();
                         $movements = $this->soap_client->GetStockList(2, $date_interval, 0); // Movement Date
+                        $lastRequest[] = $this->soap_client->__getLastRequest();
+
+//                        var_dump($lastRequest);exit;
+
                     } catch (\Exception $ex) {
                         print_r($ex);exit;
                     }
@@ -237,23 +243,14 @@ class KhaosControl extends Model
                         $stock_codes_chunked = array_chunk($export_stock_codes, 15);
 
                         foreach ($stock_codes_chunked as $key => $chunk) {
-
-//                            if (isset($chunk[0])) {
-//                                $chunk = $chunk[0];
-//                            }
-//
-//                            if (!is_array($chunk)) {
-//                                $chunk = [$chunk];
-//                            }
                             $chunked_stock_codes = implode(",", $chunk);
 
                             try {
 
                                 echo $this->cmd ? "\n" : "<br/>";
                                 $stock_xml = $this->soap_client->ExportStock($chunked_stock_codes, 1);
-
                                 $lastRequest = $this->soap_client->__getLastRequest();
-                                @mail('stuarttodd444@gmail.com', 'Last Request', $lastRequest);
+//                                var_dump($lastRequest);exit;
 
                                 $stock_dir = $this->in_dir . '/'.$type;
 
