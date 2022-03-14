@@ -60,7 +60,7 @@ class KhaosControl extends Model
     {
         dl("php_soap.dll");
     }
-    
+
     ini_set("soap.wsdl_cache_enabled", "0");
 
         $this->soap_client = new SoapClient($this->endpoint, $params);
@@ -251,6 +251,10 @@ class KhaosControl extends Model
 
                                 echo $this->cmd ? "\n" : "<br/>";
                                 $stock_xml = $this->soap_client->ExportStock($chunked_stock_codes, 1);
+
+                                $lastRequest = $this->soap_client->_getLastRequest();
+                                @mail('stuarttodd444@gmail.com', 'Last Request', $lastRequest);
+
                                 $stock_dir = $this->in_dir . '/'.$type;
 
                                 if (isset($_GET['debug'])) {
